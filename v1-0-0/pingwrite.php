@@ -5,7 +5,7 @@ https://github.com/geerlingguy/Ping */
 require "Ping.php";
 
 // Settings for the target server
-$host1 = "cc2.cconsulting.ca";
+$host1 = "www.cconsulting.ca";
 
 // Settings for a reliable secondary target
 $host2 = "www.google.ca";
